@@ -69,7 +69,7 @@ hr.star-primary:after {
 }
 header {
   text-align: center;
-  background: #18BC9C;
+  background: #06362d;
   color: white;
 }
 header .container {
@@ -126,7 +126,7 @@ header .intro-text .skills {
   letter-spacing: 1px;
 }
 .navbar-custom .navbar-nav li a {
-  color: white;
+  color: black;
 }
 .navbar-custom .navbar-nav li a:hover {
   color: #18BC9C;
